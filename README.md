@@ -1,2 +1,4 @@
-# test-repo
-初めてのGitHubテスト用
+# Hello GitHub  
+これはGitHubテスト用のリポジトリです。  
+PythonでHello, GitHub!を表示します。
+
